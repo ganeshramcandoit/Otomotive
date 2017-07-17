@@ -1,6 +1,5 @@
 package com.io.otomotive.endpoint;
 
-import java.io.File;
 import java.io.StringReader;
 
 import javax.xml.bind.JAXBContext;
