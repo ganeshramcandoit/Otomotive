@@ -1,0 +1,9 @@
+com\io\common\pojo\ObjectFactory.class
+com\io\otomotive\configuration\ServiceConfiguration.class
+com\io\common\pojo\Discount.class
+com\io\common\pojo\ProductDiscount.class
+com\io\common\pojo\BaslatRequest.class
+com\io\otomotive\endpoint\ServiceEndpoint.class
+com\io\common\interfaces\OtomotiveServiceI.class
+com\io\common\pojo\BaslatResponse.class
+com\io\otomotive\WSApp.class
